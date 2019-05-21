@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 # Title
 This is a test
+![My helpful screenshot](/assets/screenshot.png)
